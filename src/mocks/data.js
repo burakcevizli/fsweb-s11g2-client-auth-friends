@@ -11,7 +11,7 @@ const moment = require("moment")
 
 let data;
 
-const resetData = () => {
+ const resetData = () => {
   data = [
     {
       id: nanoid(5),
